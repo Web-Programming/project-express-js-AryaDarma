@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "laptop gaming",
+    "price": 150000000,
+    "description": "Laptop berkualitas"
+  },
+  {
+    "id": 2,
+    "name": "smartphone",
+    "price": 50000000,
+    "description": "Smartphone canggih"
+  },
+  {
+    "id": 3,
+    "name": "headset gaming",
+    "price": 10000000,
+    "description": "Headset berkualitas untuk gaming"
+  },
+  {
+    "id": 4,
+    "name": "keyboard mechanical",
+    "price": 2000000,
+    "description": "Keyboard mekanikal RGB"
+  },
+  {
+    "id": 5,
+    "name": "mouse gaming",
+    "price": 5000000,
+    "description": "Mouse gaming dengan sensor canggih"
+  },
+  {
+    "id": 6,
+    "name": "smartwatch",
+    "price": 8000000,
+    "description": "Jam tangan pintar untuk aktivitas sehari-hari"
+  },
+  {
+    "id": 7,
+    "name": "tablet",
+    "price": 70000000,
+    "description": "Tablet multifungsi untuk pekerjaan dan hiburan"
+  },
+  {
+    "id": 8,
+    "name": "external hard drive",
+    "price": 2000000,
+    "description": "HDD eksternal kapasitas besar"
+  },
+  {
+    "id": 9,
+    "name": "monitor 4K",
+    "price": 12000000,
+    "description": "Monitor 4K untuk kualitas gambar tajam"
+  },
+  {
+    "id": 10,
+    "name": "USB flash drive",
+    "price": 500000,
+    "description": "USB flash drive dengan kecepatan tinggi"
+  },
+  {
+    "id": 11,
+    "name": "gaming chair",
+    "price": 35000000,
+    "description": "Kursi gaming ergonomis untuk kenyamanan"
+  },
+  {
+    "id": 12,
+    "name": "wireless charger",
+    "price": 1500000,
+    "description": "Pengisi daya nirkabel untuk smartphone"
+  },
+  {
+    "id": 13,
+    "name": "VR headset",
+    "price": 30000000,
+    "description": "Headset VR untuk pengalaman gaming lebih nyata"
+  },
+  {
+    "id": 14,
+    "name": "drone",
+    "price": 25000000,
+    "description": "Drone untuk pemotretan udara"
+  },
+  {
+    "id": 15,
+    "name": "action camera",
+    "price": 5000000,
+    "description": "Kamera aksi untuk dokumentasi petualangan"
+  },
+  {
+    "id": 16,
+    "name": "bluetooth speaker",
+    "price": 1000000,
+    "description": "Speaker bluetooth dengan suara jernih"
+  },
+  {
+    "id": 17,
+    "name": "gaming laptop",
+    "price": 180000000,
+    "description": "Laptop gaming dengan spesifikasi tinggi"
+  },
+  {
+    "id": 18,
+    "name": "webcam",
+    "price": 1200000,
+    "description": "Webcam dengan kualitas HD"
+  },
+  {
+    "id": 19,
+    "name": "LED strip light",
+    "price": 400000,
+    "description": "Lampu strip LED untuk dekorasi ruangan"
+  },
+  {
+    "id": 20,
+    "name": "smart home device",
+    "price": 3500000,
+    "description": "Perangkat pintar untuk rumah cerdas"
+  }
+]
