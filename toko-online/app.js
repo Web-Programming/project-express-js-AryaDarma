@@ -9,6 +9,8 @@ var usersRouter = require("./routes/users");
 var engine = require("ejs-blocks"); //menggunakan ejs block
 var app = express();
 
+app.use(express.static(path.join(__dirname, "public")));
+
 // view engine setup
 app.set("views", path.join(__dirname, "views"));
 app.engine("ejs", engine); //daftarkan engine ejs block

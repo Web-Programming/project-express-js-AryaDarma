@@ -11,4 +11,20 @@ router.get("/", function (req, res, next) {
   });
 });
 
+router.get("/search", function (req, res, next) {
+  const q = req.query.q ? req.query.q.toLowerCase() : "";
+
+  let filteredProducts = products;
+
+  if (q) {
+    filteredProducts = products.filter((p) => p.name.toLowerCase().includes(q));
+  }
+
+  res.render("index", {
+    title: "Toko online Sederhana",
+    products: filteredProducts,
+    query: q,
+  });
+});
+
 module.exports = router;

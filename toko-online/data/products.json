@@ -3,7 +3,8 @@
     "id": 1,
     "name": "laptop gaming",
     "price": 150000000,
-    "description": "Laptop berkualitas"
+    "description": "Laptop berkualitas",
+    "image": "/image/LaptopBerkualitas.png"
   },
   {
     "id": 2,

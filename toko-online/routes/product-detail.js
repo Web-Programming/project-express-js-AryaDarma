@@ -1,9 +1,5 @@
-var express = require("express");
-var router = express.Router();
-var products = require("../data/products.json");
-
 router.get("/:id", function (req, res, next) {
-  const productId = parseInt(req.params.id); //tangkap ID dari URL
+  const productId = parseInt(req.params.id);
   const product = products.find((p) => p.id === productId);
 
   if (!product) {
@@ -15,4 +11,3 @@ router.get("/:id", function (req, res, next) {
     product: product,
   });
 });
-module.exports = router;

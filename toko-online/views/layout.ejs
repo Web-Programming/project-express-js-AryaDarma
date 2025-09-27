@@ -9,6 +9,17 @@
   <body>
     <!-- Navbar dapat diambil dari getbootstrap -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <form class="d-flex" role="search" action="/search" method="GET">
+        <input
+          class="form-control me-2"
+          type="search"
+          name="q"
+          placeholder="Cari produk..."
+          aria-label="Search"
+        />
+        <button class="btn btn-outline-primary" type="submit">Cari</button>
+      </form>
+
       <div class="container-fluid">
         <a class="navbar-brand" href="#">Toko Online</a>
         <button
