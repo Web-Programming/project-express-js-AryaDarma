@@ -1,123 +1,142 @@
 [
   {
     "id": 1,
-    "name": "laptop gaming",
+    "name": "ASUS ROG STRIX SCAR 18",
     "price": 150000000,
-    "description": "Laptop berkualitas",
+    "description": "ASUS ROG STRIX SCAR 18 G835LX Ultra 9 275HX RTX5090 24GB/64GB 4TB W11+OHS 18\" 2.5K MINILED 240HZ PKRGB (BOX MOU) BLACK - 9N59MZT-HM",
     "image": "/image/LaptopBerkualitas.png"
   },
   {
     "id": 2,
-    "name": "smartphone",
-    "price": 50000000,
-    "description": "Smartphone canggih"
+    "name": "IPHONE 17 PRO MAX ",
+    "price": 30000000,
+    "description": "Iphone 17 PROMEK 2 tera, bukan buat kaum mendang mending",
+    "image": "/image/iphone.jpeg"
   },
   {
     "id": 3,
-    "name": "headset gaming",
+    "name": "REXUS HEADSET GAMING VONIX F30 RGB Plus MIC dan Volume HEAD SET",
     "price": 10000000,
-    "description": "Headset berkualitas untuk gaming"
+    "description": "Shure Aonic 50 Gen2 Wireless ANC Noise Cancelling Over-ear Headphones Headset,Garansi Resmi 1 Tahun",
+    "image": "/image/Rexus.jpg"
   },
   {
     "id": 4,
-    "name": "keyboard mechanical",
+    "name": "Keyboard Rexus KX5 Heroic Mechanical Full Size Detacable Type C | Black Grey Switch Brown",
     "price": 2000000,
-    "description": "Keyboard mekanikal RGB"
+    "description": "Keyboard mekanikal Rexus RGB",
+    "image": "/image/Keyboard.png"
   },
   {
     "id": 5,
-    "name": "mouse gaming",
+    "name": "Razer - Lancehead Wireless Laser Gaming Mouse - Black",
     "price": 5000000,
-    "description": "Mouse gaming dengan sensor canggih"
+    "description": "Mouse gaming dengan sensor canggih, paling mahal dikelasnya",
+    "image": "/image/Mouse.jpg"
   },
   {
     "id": 6,
-    "name": "smartwatch",
-    "price": 8000000,
-    "description": "Jam tangan pintar untuk aktivitas sehari-hari"
+    "name": "Jual Apple Watch Ultra 2 Trail Loop",
+    "price": 14000000,
+    "description": "Jam tangan pintar untuk aktivitas sehari-hari",
+    "image": "/image/IWatch.jpg"
   },
   {
     "id": 7,
-    "name": "tablet",
+    "name": "Jual iPad Pro M4 (2024) Wi-Fi Only Garansi Resmi",
     "price": 70000000,
-    "description": "Tablet multifungsi untuk pekerjaan dan hiburan"
+    "description": "iPad multifungsi untuk pekerjaan dan hiburan",
+    "image": "/image/IPAD.jpg"
   },
   {
     "id": 8,
-    "name": "external hard drive",
+    "name": "SSD Kingston XS1000 1TB 2TB - Portable Eksternal External SSD",
     "price": 2000000,
-    "description": "HDD eksternal kapasitas besar"
+    "description": "Alasan Kenapa Harus Beli di Trinity Plaza Official Store, Harga Inc PPN 11% (bisa menerbitkan faktur pajak), Barang Asli, Baru dan Bergaransi Resmi (Gratis kalo tidak Original), Packing Aman dan Rapi, Pengiriman Tepat Waktu, Pelayanan Ramah dengan Product Knowledge yang Baik, Proses Klaim Garansi Mudah & dibantu Hingga Selesai, Banyak Bonus dan Voucher Cashback yang didapatkan.",
+    "image": "/image/SSD.jpeg "
   },
   {
     "id": 9,
-    "name": "monitor 4K",
+    "name": "LED MONITOR XIAOMI G34WQi 34INC CURVED GAMING 4K 180HZ ",
     "price": 12000000,
-    "description": "Monitor 4K untuk kualitas gambar tajam"
+    "description": "Monitor 4K untuk kualitas gambar tajam",
+    "image": "/image/Monitor.jpeg"
   },
   {
     "id": 10,
-    "name": "USB flash drive",
+    "name": "SanDisk Ultra Flair USB 3.0 CZ73",
     "price": 500000,
-    "description": "USB flash drive dengan kecepatan tinggi"
+    "description": "16GB speed up to 130MB/s 32GB - 1TB up to 150MB/s garansi resmi 5 tahun Operating, Compatibility USB 3.0 enabled (USB 2.0 compatible)",
+    "image": "/image/FlashDisk.jpg"
   },
   {
     "id": 11,
-    "name": "gaming chair",
+    "name": "Xpanse W202 Kursi Gaming/Kursi Ergonomis/Kursi Kantor/Kursi Belajar Kerja",
     "price": 35000000,
-    "description": "Kursi gaming ergonomis untuk kenyamanan"
+    "description": "Spesifikasi: | Berat: | TYPE1:14.5KG | TYPE2:15KG | Bahan: Besi + PVC | Ukuran: 64*49*109-119CM (Pengukuran dilakukan manual, adalah wajar jika ada perbedaan 1-3cm) | Warna : Putih, Merah, Hijau, Biru",
+    "image": "/image/KursiGaming.jpg"
   },
   {
     "id": 12,
     "name": "wireless charger",
     "price": 1500000,
-    "description": "Pengisi daya nirkabel untuk smartphone"
+    "description": "Pengisi daya nirkabel untuk smartphone",
+    "image": "/image/LaptopBerkualitas.png"
   },
   {
     "id": 13,
     "name": "VR headset",
     "price": 30000000,
-    "description": "Headset VR untuk pengalaman gaming lebih nyata"
+    "description": "Headset VR untuk pengalaman gaming lebih nyata",
+    "image": "/image/LaptopBerkualitas.png"
   },
   {
     "id": 14,
     "name": "drone",
     "price": 25000000,
-    "description": "Drone untuk pemotretan udara"
+    "description": "Drone untuk pemotretan udara",
+    "image": "/image/LaptopBerkualitas.png"
   },
   {
     "id": 15,
     "name": "action camera",
     "price": 5000000,
-    "description": "Kamera aksi untuk dokumentasi petualangan"
+    "description": "Kamera aksi untuk dokumentasi petualangan",
+    "image": "/image/LaptopBerkualitas.png"
   },
   {
     "id": 16,
     "name": "bluetooth speaker",
     "price": 1000000,
-    "description": "Speaker bluetooth dengan suara jernih"
+    "description": "Speaker bluetooth dengan suara jernih",
+    "image": "/image/LaptopBerkualitas.png"
   },
   {
     "id": 17,
     "name": "gaming laptop",
     "price": 180000000,
-    "description": "Laptop gaming dengan spesifikasi tinggi"
+    "description": "Laptop gaming dengan spesifikasi tinggi",
+    "image": "/image/LaptopBerkualitas.png"
   },
   {
     "id": 18,
     "name": "webcam",
     "price": 1200000,
-    "description": "Webcam dengan kualitas HD"
+    "description": "Webcam dengan kualitas HD",
+    "image": "/image/LaptopBerkualitas.png"
   },
   {
     "id": 19,
     "name": "LED strip light",
     "price": 400000,
-    "description": "Lampu strip LED untuk dekorasi ruangan"
+    "description": "Lampu strip LED untuk dekorasi ruangan",
+    "image": "/image/LaptopBerkualitas.png"
   },
   {
     "id": 20,
     "name": "smart home device",
     "price": 3500000,
-    "description": "Perangkat pintar untuk rumah cerdas"
+    "description": "Perangkat pintar untuk rumah cerdas",
+    "image": "/image/LaptopBerkualitas.png"
   }
 ]
