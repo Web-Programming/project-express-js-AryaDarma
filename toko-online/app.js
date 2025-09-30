@@ -9,7 +9,6 @@ var usersRouter = require("../toko-online/app_toko_online/routes/users");
 var productRouter = require("../toko-online/app_toko_online/routes/product"); //letakkan di atas agar rapi
 var engine = require("ejs-blocks"); //menggunakan ejs block
 var app = express();
-app.use("/", indexRouter);
 
 app.use(express.static(path.join(__dirname, "public")));
 
