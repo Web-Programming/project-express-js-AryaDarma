@@ -11,20 +11,21 @@ var mainController = require("../controllers/main");
 //   });
 // });
 
-router.get("/search", function (req, res, next) {
-  const q = req.query.q ? req.query.q.toLowerCase() : "";
+// router.get("/search", function (req, res, next) {
+//   const q = req.query.q ? req.query.q.toLowerCase() : "";
 
-  let filteredProducts = products;
+//   let filteredProducts = products;
 
-  if (q) {
-    filteredProducts = products.filter((p) => p.name.toLowerCase().includes(q));
-  }
+//   if (q) {
+//     filteredProducts = products.filter((p) => p.name.toLowerCase().includes(q));
+//   }
 
-  res.render("index", {
-    title: "Toko online Sederhana",
-    products: filteredProducts,
-    query: q,
-  });
-});
+//   res.render("index", {
+//     title: "Toko online Sederhana",
+//     products: filteredProducts,
+//     query: q,
+//   });
+// });
 
+router.get("/", mainController.index);
 module.exports = router;

@@ -1,9 +1,9 @@
-const products = require("../../data/products.json");
+var products = require("../../data/products.json");
 
 const index = (req, res) => {
   res.render("index", {
-    title: "Toko online Sederhana",
-    products: product,
+    title: "Toko Online Sederhana",
+    products: products,
   });
 };
 
